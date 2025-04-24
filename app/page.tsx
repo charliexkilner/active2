@@ -17,7 +17,7 @@ export default function Home() {
         <div className="space-y-2">
           <p className="text-sm uppercase tracking-wider">CULTURE COLLECTIVE & PSYKED PRESENTS</p>
           <h1 className="text-[8rem] font-impact leading-none">ACTIVE</h1>
-          <p className="text-sm">join for limited pre-sale tickets</p>
+          <p className="text-sm">join for limited tickets</p>
         </div>
 
         <form onSubmit={handleSubmit} className="max-w-md mx-auto">
