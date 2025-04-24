@@ -16,7 +16,7 @@ export default function Home() {
       <div className="w-full max-w-2xl text-center space-y-8">
         <div className="space-y-2">
           <p className="text-sm uppercase tracking-wider">CULTURE COLLECTIVE & PSYKED PRESENTS</p>
-          <h1 className="text-[8rem] font-impact leading-none">ACTIVE</h1>
+          <h1 className="text-[8rem] font-extrabold leading-none tracking-tight">ACTIVE</h1>
           <p className="text-sm">join for limited tickets</p>
         </div>
 
@@ -31,7 +31,7 @@ export default function Home() {
             />
             <button
               type="submit"
-              className="bg-black text-white px-6 py-3 font-impact"
+              className="bg-black text-white px-6 py-3 font-bold"
             >
               JOIN
             </button>
@@ -44,8 +44,8 @@ export default function Home() {
             <div className="w-4 h-4 bg-black rounded-full"></div>
             <div className="w-4 h-4 bg-black rounded-full"></div>
           </div>
-          <p className="font-impact text-xl">JOIN 300 STUDENTS ON THE WAITLIST</p>
-          <div className="flex justify-center gap-4 text-sm">
+          <p className="font-bold text-xl tracking-wide">JOIN 300 STUDENTS ON THE WAITLIST</p>
+          <div className="flex justify-center gap-4 text-sm font-medium">
             <p>3 VENUES. 1 TICKET.</p>
             <p>WED 18TH JUNE.</p>
           </div>
